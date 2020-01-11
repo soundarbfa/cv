@@ -1,0 +1,18 @@
+.profile{
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    border-width: 3px;
+    width: 150px;
+    border-radius: 100px;
+    
+}
+.animator{
+    color: coral;
+}
+/* .cont_body{
+    background-color: darkgrey;
+} */
+
+.submit{
+    border-radius: 50px;
+}
